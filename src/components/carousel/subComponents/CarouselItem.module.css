@@ -1,0 +1,26 @@
+.itemContainer {
+  background: #fbe2ce no-repeat fixed center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.headerContainer {
+  float: right;
+  margin-top: 200px;
+  margin-right: 200px;
+  width: 450px;
+  font-family: "Black Han Sans", sans-serif;
+  white-space: pre-wrap;
+}
+
+.header {
+  font-size: 75px;
+}
+
+.highlight {
+  display: inline-block;
+  color: red;
+}

@@ -1,0 +1,31 @@
+.header {
+  position: fixed;
+  right: 0;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  margin-top: 50px;
+}
+
+.logoContainer {
+  position: absolute;
+  right: 0;
+  left: 0;
+  font-size: 30px;
+  display: inline-block;
+  font-family: "Black Han Sans", sans-serif;
+  text-align: center;
+}
+
+.menuContainer {
+  display: inline-block;
+  float: right;
+  margin-right: 15%;
+  font-size: 30px;
+  font-family: "Black Han Sans", sans-serif;
+}
+
+.menuItem {
+  display: inline-block;
+  padding: 0px 30px;
+}

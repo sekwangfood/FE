@@ -1,0 +1,27 @@
+.leftBtn {
+  position: absolute;
+  border: unset;
+  background: unset;
+  left: 30px;
+  top: 0;
+  bottom: 0;
+  transition: all 0.2s ease-in-out;
+}
+
+.rightBtn {
+  position: absolute;
+  border: unset;
+  background: unset;
+  right: 30px;
+  top: 0;
+  bottom: 0;
+  transition: all 0.2s ease-in-out;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover {
+  transform: scale(2);
+}

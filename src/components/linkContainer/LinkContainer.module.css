@@ -1,0 +1,20 @@
+.linkContainer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-right: 200px;
+  margin-bottom: 50px;
+}
+
+.link {
+  display: inline-block;
+  font-size: 20px;
+  padding: 35px;
+  font-family: "Black Han Sans", sans-serif;
+  color: gray;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: black;
+}
